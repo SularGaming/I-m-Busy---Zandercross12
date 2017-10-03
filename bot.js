@@ -130,7 +130,7 @@ client.on("message", async message => {
 
 if(command === "info") {
     var embed = new Discord.RichEmbed()
-      .setThumbnail(message.author.avatarURL)
+      .setThumbnail(message.client.avatarURL)
       .addField("What I am", "I am a bot created by: Zandercros12!", true)
       .addField("This is you ------------>", " nice icon", true)
       .addField("What I do", "Murder")
