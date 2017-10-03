@@ -139,7 +139,7 @@ if(command === "info") {
     message.channel.sendEmbed(embed);
   }
 if(command === "help") {
-	message.author.sendMessage("**Commands:**\n```md\n[Command](Definition)\n[info](gives information on the bot)\n[busy](sends you a busy meme)\n[8ball](ask a question and see my response!)\n[memepic](sends a funny meme)\n[ranodmgif](sends a random gif)```");
+	message.author.sendMessage("**Commands:**\n```md\n[Command](Definition)\n[info](gives information on the bot)\n[busy](sends you a busy meme)\n[8ball](ask a question and see my response!)\n[memepic](sends a funny meme)\n[randomgif](sends a random gif)```");
 	message.channel.sendMessage("**I just messaged you the commands, go to your direct messages!**");
 }
 
