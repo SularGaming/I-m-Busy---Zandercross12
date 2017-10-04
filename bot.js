@@ -15,7 +15,6 @@ var gif = [
 	"https://media.tenor.com/images/0e2ff58eb8d23a3d22b9b00505c057dd/tenor.gif",
 	"https://media.tenor.com/images/1d4cefd98877009a93f0f09556ffa5a2/tenor.gif",
 	"http://www.teamjimmyjoe.com/wp-content/uploads/2016/02/giphy.gif",
-	"http://www.teamjimmyjoe.com/wp-content/uploads/2015/12/karate-kick-takedown.gif",
 	"https://media.giphy.com/media/m80Q4HTDNPFHq/giphy.gif",
 	"http://cdn2-www.craveonline.com/assets/mandatory/legacy/2016/05/man_file_1067410_6Funny-GIFS-at-Radass-001.gif",
 	"https://media.tenor.com/images/c26e863624ee27ba7489d2514e9a6418/tenor.gif",
@@ -105,9 +104,9 @@ var fortunes = [
 	"**BusyBot says:** ```fix\nNot in a million years```",
 	"**BusyBot says:** ```fix\nWhatever lets you sleep at night...```",
 	"**BusyBot says:** ```fix\nSorry, I'm a bit busy right now, I'll answer next time you ask a question.```",
-	"**BusyBot says:** ```css\nYou may rely on it",
-	"**BusyBot says:** ```css\nMaybe",
-	"**BusyBot says:** ```fix\nThe world may never know"
+	"**BusyBot says:** ```css\nYou may rely on it```",
+	"**BusyBot says:** ```css\nMaybe```",
+	"**BusyBot says:** ```fix\nThe world may never know```"
 
 ];
 
