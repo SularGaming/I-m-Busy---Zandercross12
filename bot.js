@@ -116,10 +116,6 @@ client.on('ready', () => {
   console.log('I am ready!');
 });
 
-client.on("guildMemberAdd", function(member) {
-  member.addRole(member.guild.roles.find("name", "Member"));
-});
-
 client.on("message", async message => {
   if(message.author.bot) return;
   if(message.content.indexOf(config.prefix) !== 0) return;
